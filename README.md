@@ -6,3 +6,6 @@ So I promise you that I will for sure write something here, sometimes.
 I'm just a young hobby dev from Germany.<br>
 My main language is Rust currently, I don't know if I am good at it tho.<br>
 I'm also using JS,HTML,CSS (ye I know HTML and CSS don't count),I'v written something in Java, C# and Visual Basic (Who uses that fr) and Python.
+
+## Contact:
+Just write me an E-Mail: mail@wagamundi.de
